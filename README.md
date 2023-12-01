@@ -1,2 +1,2 @@
-# AWS-Cloud-projects
-AWS Lab projects for Data Centric Networking
+# Dodong Content Moderation
+profanity detection ML Model
